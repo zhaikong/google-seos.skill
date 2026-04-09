@@ -146,4 +146,11 @@ MIT License — 自由使用、修改和分发。 / Free to use, modify, and dis
 
 ---
 
+---
+
+## 👤 作者 / Author
+
+**公众号**：把自己产品化
+**个人网站**：https://zlbigger.com
+
 *Built with ❤️ for the SEO community / 为 SEO 社区而生*
