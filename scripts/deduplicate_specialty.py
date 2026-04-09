@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """清理06-specialty目录，移除已被分类的文件"""
 
+import utils.http_session
+import utils.transport
+import utils.session
 import os
 from pathlib import Path
 
